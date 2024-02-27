@@ -46,6 +46,10 @@ ul {
   padding-inline-start: 20px;
 }
 
+li {
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
 * {
   box-sizing: border-box;
 }
@@ -87,4 +91,8 @@ body {
 
 .game-info {
   margin-left: 20px;
+}
+
+.winning-square {
+  color: red;
 }
